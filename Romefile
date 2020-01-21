@@ -1,0 +1,24 @@
+cache:
+ local: ~/Documents/Carthage
+
+currentMap:
+  - grpc-swift:
+    - name: GRPC
+    - name: CNIOAtomics
+    - name: CNIOBoringSSL
+    - name: CNIOBoringSSLShims
+    - name: CNIODarwin
+    - name: CNIOHTTPParser
+    - name: CNIOLinux
+    - name: CNIOSHA1
+    - name: Logging
+    - name: NIO
+    - name: NIOConcurrencyHelpers
+    - name: NIOFoundationCompat
+    - name: NIOHPACK
+    - name: NIOHTTP1
+    - name: NIOHTTP2
+    - name: NIOSSL
+    - name: NIOTLS
+    - name: NIOTransportServices
+    - name: SwiftProtobuf
